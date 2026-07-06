@@ -1,4 +1,4 @@
-# 
+# Exclusive Visual Studio extensions for Mac OS | Top Visual Studio extensions for PC Windows. Featuring stored-procedures and image-builder — optimized for maximum performance on every platform.
 
 
 
